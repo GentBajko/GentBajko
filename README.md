@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Status for @GentBajko](https://badge.stateful.com/GentBajko/status.svg)](https://app.stateful.com/@GentBajko)
+
 [![Status for @GentBajko](https://badge.stateful.com/GentBajko/dnd.svg)](https://app.stateful.com/@GentBajko)
 <!--
 **GentBajko/GentBajko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
