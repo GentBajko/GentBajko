@@ -1,18 +1,20 @@
-### Hi there 👋
-[![Status for @GentBajko](https://badge.stateful.com/GentBajko/status.svg)](https://app.stateful.com/@GentBajko)
+<div align="center"><b>Greetings!</b></div>
+<br>
+<div align="center">
+  <a href="https://github.com/DiceMasterIO">
+    <img src="https://avatars.githubusercontent.com/u/131033846?s=400&u=62c8b7199fb967f64c05d224f2f8d77990aa08d5&v=4" alt="DiceMasterIO">
+  </a>
+</div>
 
-[![Status for @GentBajko](https://badge.stateful.com/GentBajko/dnd.svg)](https://app.stateful.com/@GentBajko)
-<!--
-**GentBajko/GentBajko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://app.stateful.com/@GentBajko">
+    <img src="https://badge.stateful.com/GentBajko/status.svg" alt="Status for @GentBajko">
+  </a>
+  <br>
+  <a href="https://app.stateful.com/@GentBajko">
+    <img src="https://badge.stateful.com/GentBajko/dnd.svg" alt="Status for @GentBajko">
+  </a>
+</div>
+
