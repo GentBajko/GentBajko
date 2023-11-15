@@ -9,13 +9,6 @@
 
 
 <div align="center">
-  <a href="https://app.stateful.com/@GentBajko">
-    <img src="https://badge.stateful.com/GentBajko/status.svg" alt="Status for @GentBajko">
-  </a>
-  <br>
-  <a href="https://app.stateful.com/@GentBajko">
-    <img src="https://badge.stateful.com/GentBajko/dnd.svg" alt="Status for @GentBajko">
-  </a>
   <br>
   <br>
   <br>
