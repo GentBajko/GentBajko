@@ -16,5 +16,12 @@
   <a href="https://app.stateful.com/@GentBajko">
     <img src="https://badge.stateful.com/GentBajko/dnd.svg" alt="Status for @GentBajko">
   </a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="https://app.stateful.com/@GentBajko">
+    <img src="https://github-readme-stats-kappa-ruddy-74.vercel.app/api?username=GentBajko&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000&show_private=true" alt="Gent Bajko's GitHub Stats" />
+  </a>
 </div>
 
