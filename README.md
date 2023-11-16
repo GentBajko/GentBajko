@@ -13,7 +13,7 @@
   <br>
   <br>
   <br>
-  <a href="https://github-readme-stats-kappa-ruddy-74.vercel.app/api?username=GentBajko&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000&show_private=true&card_width=1000px">
+  <a href="https://github-readme-stats-kappa-ruddy-74.vercel.app/api?username=GentBajko&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000&show_private=true&card_width=700px">
     <img src="https://github-readme-stats-kappa-ruddy-74.vercel.app/api?username=GentBajko&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000&show_private=true&card_width=1000px" alt="Gent Bajko's GitHub Stats" />
   </a>
 </div>
