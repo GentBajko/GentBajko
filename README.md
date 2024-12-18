@@ -1,4 +1,5 @@
-![Metrics](https://metrics.lecoq.io/GentBajko?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Europe%2FTirane&config.display=large)
+![Metrics](https://metrics.lecoq.io/GentBajko?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Europe%2FTirane&config.display=large)
+
 <div align="center"><b>Greetings!</b></div>
 <br>
 <div align="center">
