@@ -6,7 +6,7 @@
   </a>
 </div>
 
-![Metrics]([https://metrics.lecoq.io/GentBajko?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FTirane](https://raw.githubusercontent.com/GentBajko/GentBajko/6e6b7ae9848f8e81875e476c633b9820964f77b9/github-metrics.svg))
+![Metrics](https://raw.githubusercontent.com/GentBajko/GentBajko/6e6b7ae9848f8e81875e476c633b9820964f77b9/github-metrics.svg)
 
 <div align="center">
   <br>
