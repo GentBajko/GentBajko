@@ -6,4 +6,4 @@
   </a>
 </div>
 
-![Metrics](https://raw.githubusercontent.com/GentBajko/GentBajko/6e6b7ae9848f8e81875e476c633b9820964f77b9/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/GentBajko?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&lines=1&steam=1&music=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&music=false&music.provider=spotify&music.user=deusexparadox&music.mode=recent&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=DeusExPersona&steam.games.limit=5&steam.recent.games.limit=3&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=Europe%2FTirane&config.display=large)
