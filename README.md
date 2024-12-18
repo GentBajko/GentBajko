@@ -7,14 +7,3 @@
 </div>
 
 ![Metrics](https://raw.githubusercontent.com/GentBajko/GentBajko/6e6b7ae9848f8e81875e476c633b9820964f77b9/github-metrics.svg)
-
-<div align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="https://github-readme-stats-kappa-ruddy-74.vercel.app/api?username=GentBajko&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000&show_private=true">
-    <img src="https://github-readme-stats-kappa-ruddy-74.vercel.app/api?username=GentBajko&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000&show_private=true&card_width=1000px" alt="Gent Bajko's GitHub Stats" />
-  </a>
-</div>
-
