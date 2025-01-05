@@ -1,4 +1,4 @@
-<div align="center"><b>Greetings!</b></div>
+<div align="center"><b>Greetings! Check out DiceMaster.io or click the image below!</b></div>
 <br>
 <div align="center">
   <a href="https://github.com/DiceMasterIO">
