@@ -7,6 +7,5 @@
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="48%" />
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D Cityscape" />
 </div>
