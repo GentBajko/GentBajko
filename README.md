@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D Cityscape" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" style="filter: invert(0.9) hue-rotate(180deg);" />
 </div>
