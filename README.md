@@ -8,7 +8,5 @@
 
 <div align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="48%" />
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" />
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
 </div>
