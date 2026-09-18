@@ -44,3 +44,8 @@ across energy, fintech, real estate, and my own SaaS.
 ### Elsewhere
 
 [me@gentbajko.dev](mailto:me@gentbajko.dev) · [gentbajko.dev](https://gentbajko.dev) · [X](https://x.com/gentbajko) · [LinkedIn](https://linkedin.com/in/gentbajko)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Contribution graph">
+</picture>
