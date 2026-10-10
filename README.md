@@ -5,14 +5,14 @@
     <td width="88" align="center"><a href="https://github.com/DiceMasterIO"><img src="./logos/dicemaster-mark.svg" width="56" height="56" alt="DiceMaster" /></a></td>
     <td>
       <strong><a href="https://github.com/DiceMasterIO">DiceMaster</a></strong> · Coming soon<br>
-      An AI Dungeon Master for D&amp;D 5e. Intelligent NPCs, voice, and a virtual tabletop, for solo players and groups without a DM.
+      A full D&amp;D 5e video game, run server-side. The rules are hard-coded, NPCs act on their own, and an AI Dungeon Master runs the story. Play solo or as a group with no DM.
     </td>
   </tr>
   <tr>
     <td width="88" align="center"><a href="https://github.com/DiceMasterIO/arda"><img src="./logos/arda-mark.svg" width="56" height="56" alt="Arda" /></a></td>
     <td>
       <strong><a href="https://github.com/DiceMasterIO/arda">Arda</a></strong> · Open source, Apache-2.0<br>
-      Worlds from the ground up. Deterministic world generation in Rust: one seed produces a continent, resolved down to the 5-ft squares of a battle map.
+      Worlds from the ground up. One seed becomes a whole world: realistic terrain, climate and rivers, countries, cities, towns and villages, the roads between them, their people and a backfilled history. Built in Rust and served down to the 5-ft squares of a battle map.
     </td>
   </tr>
   <tr>
