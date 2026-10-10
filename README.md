@@ -34,7 +34,7 @@
     <td width="88" align="center"><a href="https://slopify.stream"><img src="./logos/slopify-mark.svg" width="56" height="56" alt="Slopify" /></a></td>
     <td>
       <strong><a href="https://slopify.stream">Slopify</a></strong> · On npm<br>
-      Turn a prompt into a narrated, subtitled video on your own machine. Bring your own keys, and see the cost before every provider call.<br>
+      A content studio that runs on your own machine. Give it a topic and it researches, writes, narrates, illustrates and edits it into videos and shorts, audiobooks, podcasts, articles or social posts. Your keys, and nothing runs without your say.<br>
       <code>npx @gentbajko/slopify@latest</code>
     </td>
   </tr>
