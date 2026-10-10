@@ -29,8 +29,24 @@
     <td width="88" align="center"><a href="https://archways.dev"><img src="./logos/archways-mark.svg" width="56" height="56" alt="Archways" /></a></td>
     <td>
       <strong><a href="https://archways.dev">Archways</a></strong> · Open source, Apache-2.0<br>
-      Durable repository context for coding agents. Capstone writes commit-stamped docs inside a repo; Quarry indexes them across repos and answers what a change could affect.<br>
-      <a href="https://archways.dev">archways.dev</a> · <a href="https://github.com/GentBajko/capstone">Capstone</a> · <a href="https://github.com/GentBajko/quarry">Quarry</a>
+      Durable repository context for coding agents. No model, no service.<br>
+      <a href="https://archways.dev">archways.dev</a>
+      <table>
+        <tr>
+          <td width="72" align="center"><a href="https://github.com/GentBajko/capstone"><img src="./logos/capstone-mark.svg" width="44" height="44" alt="Capstone" /></a></td>
+          <td>
+            <strong><a href="https://github.com/GentBajko/capstone">Capstone</a></strong><br>
+            Your agent, on rails. Writes commit-stamped architecture docs inside a repo, so agents read decisions instead of re-exploring.
+          </td>
+        </tr>
+        <tr>
+          <td width="72" align="center"><a href="https://github.com/GentBajko/quarry"><img src="./logos/quarry-mark.svg" width="44" height="44" alt="Quarry" /></a></td>
+          <td>
+            <strong><a href="https://github.com/GentBajko/quarry">Quarry</a></strong><br>
+            One face for every repo. Indexes those docs across repos and answers what a change could affect.
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
