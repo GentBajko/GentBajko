@@ -1,27 +1,42 @@
 # Gent Bajko
 
-## Tools that finish the job.
+<table>
+  <tr>
+    <td width="88" align="center"><a href="https://businessdone.tech"><img src="./logos/businessdone.svg" width="56" height="56" alt="BusinessDone" /></a></td>
+    <td>
+      <strong><a href="https://businessdone.tech">BusinessDone</a></strong> · Shipping<br>
+      Turn a scanned legal bundle into a searchable, copyable PDF without changing the record. Batch processing, preserved layout, team access, retention and legal hold.<br>
+      <a href="https://businessdone.tech">businessdone.tech</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center"><a href="https://gentbajko.dev/#clippa"><img src="./logos/clippa.svg" width="56" height="56" alt="Clippa" /></a></td>
+    <td>
+      <strong><a href="https://gentbajko.dev/#clippa">Clippa</a></strong> · Private beta<br>
+      The producer's rundown for a streamer who has no producer. Stream ends, the VOD is processed, long-form videos and vertical clips are prepared, and nothing uploads until you approve it.<br>
+      <a href="https://gentbajko.dev/#clippa">Join the waitlist</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center"><a href="https://slopify.stream"><img src="./logos/slopify.svg" width="56" height="56" alt="Slopify" /></a></td>
+    <td>
+      <strong><a href="https://slopify.stream">Slopify</a></strong> · On npm<br>
+      Turn a prompt into a narrated, subtitled video on your own machine. Bring your own keys, and see the cost before every provider call.<br>
+      <a href="https://slopify.stream">slopify.stream</a> · <code>npx @gentbajko/slopify@latest</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center"><a href="https://archways.dev"><img src="./logos/archways.svg" width="56" height="56" alt="Archways" /></a></td>
+    <td>
+      <strong><a href="https://archways.dev">Archways</a></strong> · Open source, Apache-2.0<br>
+      Durable repository context for coding agents. Capstone writes commit-stamped docs inside a repo; Quarry indexes them across repos and answers what a change could affect.<br>
+      <a href="https://archways.dev">archways.dev</a> · <a href="https://github.com/GentBajko/capstone">Capstone</a> · <a href="https://github.com/GentBajko/quarry">Quarry</a>
+    </td>
+  </tr>
+</table>
 
-Documents, media, code. One job, end to end.
+**Writing** · The decisions behind the products: problem, constraints, architecture, tradeoffs, failure modes. [gentbajko.dev/articles](https://gentbajko.dev/articles)
 
-| | | | |
-| :-- | :-- | :-- | :-- |
-| **BusinessDone** | Scanned PDFs, searchable. The original image is never touched. | Shipping | [businessdone.tech](https://businessdone.tech) |
-| **Slopify** | Prompt to narrated MP4. Your machine, your keys, cost shown first. | Live on npm | `npx @gentbajko/slopify@latest` |
-| **Capstone** | Architecture docs your agent reads instead of re-exploring the repo. | Open source | [repo](https://github.com/GentBajko/capstone) |
-| **Quarry** | Every repo in one index. What breaks if this changes. | Open source | [repo](https://github.com/GentBajko/quarry) |
-| **Clippa** | VOD in, clips out. Nothing publishes without you. | Beta | [waitlist](https://gentbajko.dev/#clippa) |
-
-If it says beta, it's beta.
-
----
-
-**Writing** — the problem, the constraints, the tradeoffs, the failure modes. [gentbajko.dev/articles](https://gentbajko.dev/articles)
-
-**Now** — ingestion platform, 10–20M records a day, Fortune Global 500.
-
-**Open to senior roles.** [me@gentbajko.dev](mailto:me@gentbajko.dev) · [X](https://x.com/gentbajko) · [LinkedIn](https://linkedin.com/in/gentbajko)
-
----
+**Open to senior and founding roles.** [me@gentbajko.dev](mailto:me@gentbajko.dev) · [LinkedIn](https://linkedin.com/in/gentbajko)
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Contribution graph" />
