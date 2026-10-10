@@ -2,6 +2,22 @@
 
 <table>
   <tr>
+    <td width="88" align="center"><a href="https://github.com/DiceMasterIO"><img src="./logos/dicemaster-mark.svg" width="56" height="56" alt="DiceMaster" /></a></td>
+    <td>
+      <strong><a href="https://github.com/DiceMasterIO">DiceMaster</a></strong> · Coming soon<br>
+      An AI Dungeon Master for D&amp;D 5e. Intelligent NPCs, voice, and a virtual tabletop, for solo players and groups without a DM.<br>
+      <a href="https://github.com/DiceMasterIO">DiceMasterIO</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center"><a href="https://github.com/DiceMasterIO/arda"><img src="./logos/arda-mark.svg" width="56" height="56" alt="Arda" /></a></td>
+    <td>
+      <strong><a href="https://github.com/DiceMasterIO/arda">Arda</a></strong> · Open source, Apache-2.0<br>
+      Worlds from the ground up. Deterministic world generation in Rust: one seed produces a continent, resolved down to the 5-ft squares of a battle map.<br>
+      <a href="https://github.com/DiceMasterIO/arda">DiceMasterIO/arda</a>
+    </td>
+  </tr>
+  <tr>
     <td width="88" align="center"><a href="https://businessdone.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="./logos/businessdone-mark-dark.svg" /><img src="./logos/businessdone-mark-light.svg" width="56" height="56" alt="BusinessDone" /></picture></a></td>
     <td>
       <strong><a href="https://businessdone.tech">BusinessDone</a></strong> · Shipping<br>
