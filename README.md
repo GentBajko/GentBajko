@@ -39,4 +39,4 @@
 
 **Open to senior and founding roles.** [me@gentbajko.dev](mailto:me@gentbajko.dev) · [LinkedIn](https://linkedin.com/in/gentbajko)
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Contribution graph" />
+<!-- <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Contribution graph" /> -->
