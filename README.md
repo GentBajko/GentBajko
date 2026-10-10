@@ -5,24 +5,21 @@
     <td width="88" align="center"><a href="https://github.com/DiceMasterIO"><img src="./logos/dicemaster-mark.svg" width="56" height="56" alt="DiceMaster" /></a></td>
     <td>
       <strong><a href="https://github.com/DiceMasterIO">DiceMaster</a></strong> · Coming soon<br>
-      An AI Dungeon Master for D&amp;D 5e. Intelligent NPCs, voice, and a virtual tabletop, for solo players and groups without a DM.<br>
-      <a href="https://github.com/DiceMasterIO">DiceMasterIO</a>
+      An AI Dungeon Master for D&amp;D 5e. Intelligent NPCs, voice, and a virtual tabletop, for solo players and groups without a DM.
     </td>
   </tr>
   <tr>
     <td width="88" align="center"><a href="https://github.com/DiceMasterIO/arda"><img src="./logos/arda-mark.svg" width="56" height="56" alt="Arda" /></a></td>
     <td>
       <strong><a href="https://github.com/DiceMasterIO/arda">Arda</a></strong> · Open source, Apache-2.0<br>
-      Worlds from the ground up. Deterministic world generation in Rust: one seed produces a continent, resolved down to the 5-ft squares of a battle map.<br>
-      <a href="https://github.com/DiceMasterIO/arda">DiceMasterIO/arda</a>
+      Worlds from the ground up. Deterministic world generation in Rust: one seed produces a continent, resolved down to the 5-ft squares of a battle map.
     </td>
   </tr>
   <tr>
     <td width="88" align="center"><a href="https://businessdone.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="./logos/businessdone-mark-dark.svg" /><img src="./logos/businessdone-mark-light.svg" width="56" height="56" alt="BusinessDone" /></picture></a></td>
     <td>
       <strong><a href="https://businessdone.tech">BusinessDone</a></strong> · Shipping<br>
-      Turn a scanned legal bundle into a searchable, copyable PDF without changing the record. Batch processing, preserved layout, team access, retention and legal hold.<br>
-      <a href="https://businessdone.tech">businessdone.tech</a>
+      Turn a scanned legal bundle into a searchable, copyable PDF without changing the record. Batch processing, preserved layout, team access, retention and legal hold.
     </td>
   </tr>
   <tr>
@@ -38,15 +35,14 @@
     <td>
       <strong><a href="https://slopify.stream">Slopify</a></strong> · On npm<br>
       Turn a prompt into a narrated, subtitled video on your own machine. Bring your own keys, and see the cost before every provider call.<br>
-      <a href="https://slopify.stream">slopify.stream</a> · <code>npx @gentbajko/slopify@latest</code>
+      <code>npx @gentbajko/slopify@latest</code>
     </td>
   </tr>
   <tr>
     <td width="88" align="center"><a href="https://archways.dev"><img src="./logos/archways-mark.svg" width="56" height="56" alt="Archways" /></a></td>
     <td>
       <strong><a href="https://archways.dev">Archways</a></strong> · Open source, Apache-2.0<br>
-      Durable repository context for coding agents. No model, no service.<br>
-      <a href="https://archways.dev">archways.dev</a>
+      Durable repository context for coding agents. No model, no service.
       <table>
         <tr>
           <td width="72" align="center"><a href="https://github.com/GentBajko/capstone"><img src="./logos/capstone-mark.svg" width="44" height="44" alt="Capstone" /></a></td>
