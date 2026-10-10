@@ -5,7 +5,7 @@
     <td width="88" align="center"><a href="https://github.com/DiceMasterIO"><img src="./logos/dicemaster-mark.svg" width="56" height="56" alt="DiceMaster" /></a></td>
     <td>
       <strong><a href="https://github.com/DiceMasterIO">DiceMaster</a></strong> · Coming soon<br>
-      A full D&amp;D 5e video game, run server-side. The rules are hard-coded, NPCs act on their own, and an AI Dungeon Master runs the story. Play solo or as a group with no DM.
+      A full D&amp;D 5e video game, run server-side. The rules are hard-coded, NPCs act on their own, and an AI Dungeon Master runs the story. Play solo or as a group.
     </td>
   </tr>
   <tr>
