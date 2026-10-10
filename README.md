@@ -48,14 +48,14 @@
           <td width="72" align="center"><a href="https://github.com/GentBajko/capstone"><img src="./logos/capstone-mark.svg" width="44" height="44" alt="Capstone" /></a></td>
           <td>
             <strong><a href="https://github.com/GentBajko/capstone">Capstone</a></strong><br>
-            Your agent, on rails. Maps a codebase into architecture docs, stamped to commits<br>and refreshed only where the code moved, so your agent reads them instead of<br>re-exploring every session. For new projects, an interview pipeline designs<br>the whole thing before a line is built.
+            Your agent, on rails. Maps a codebase into architecture docs,<br>stamped to commits and refreshed only where the code moved,<br>so your agent reads them instead of re-exploring every session.<br>For new projects, an interview pipeline designs the whole thing<br>before a line is built.
           </td>
         </tr>
         <tr>
           <td width="72" align="center"><a href="https://github.com/GentBajko/quarry"><img src="./logos/quarry-mark.svg" width="44" height="44" alt="Quarry" /></a></td>
           <td>
             <strong><a href="https://github.com/GentBajko/quarry">Quarry</a></strong><br>
-            One face for every repo. Gathers every repo's Capstone docs into one index,<br>so questions that span repos are a one-line query: who consumes this,<br>what breaks if it changes, what a contract actually says.
+            One face for every repo. Gathers every repo's Capstone docs<br>into one index, so questions that span repos are a one-line query:<br>who consumes this, what breaks if it changes,<br>what a contract actually says.
           </td>
         </tr>
       </table>
