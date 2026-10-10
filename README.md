@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="88" align="center"><a href="https://businessdone.tech"><img src="./logos/businessdone.svg" width="56" height="56" alt="BusinessDone" /></a></td>
+    <td width="88" align="center"><a href="https://businessdone.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="./logos/businessdone-dark.svg" /><img src="./logos/businessdone-light.svg" width="56" height="56" alt="BusinessDone" /></picture></a></td>
     <td>
       <strong><a href="https://businessdone.tech">BusinessDone</a></strong> · Shipping<br>
       Turn a scanned legal bundle into a searchable, copyable PDF without changing the record. Batch processing, preserved layout, team access, retention and legal hold.<br>
