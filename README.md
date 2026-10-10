@@ -19,7 +19,7 @@
     <td width="88" align="center"><a href="https://businessdone.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="./logos/businessdone-mark-dark.svg" /><img src="./logos/businessdone-mark-light.svg" width="56" height="56" alt="BusinessDone" /></picture></a></td>
     <td>
       <strong><a href="https://businessdone.tech">BusinessDone</a></strong> · Shipping<br>
-      Turn a scanned legal bundle into a searchable, copyable PDF without changing the record. Batch processing, preserved layout, team access, retention and legal hold.
+      A suite of business tools under one account, one team and one bill. OCRDone is the first and it's live: scanned PDFs become searchable and copyable without touching the original record. More tools are on the way.
     </td>
   </tr>
   <tr>
@@ -42,20 +42,20 @@
     <td width="88" align="center"><a href="https://archways.dev"><img src="./logos/archways-mark.svg" width="56" height="56" alt="Archways" /></a></td>
     <td>
       <strong><a href="https://archways.dev">Archways</a></strong> · Open source, Apache-2.0<br>
-      Durable repository context for coding agents. No model, no service.
+      Good software, built on context. Two open-source tools that give coding agents the whole picture: what's inside each repo, and how the repos fit together. No model, no service.
       <table>
         <tr>
           <td width="72" align="center"><a href="https://github.com/GentBajko/capstone"><img src="./logos/capstone-mark.svg" width="44" height="44" alt="Capstone" /></a></td>
           <td>
             <strong><a href="https://github.com/GentBajko/capstone">Capstone</a></strong><br>
-            Your agent, on rails. Commit-stamped architecture docs inside a repo,<br>so agents read decisions instead of re-exploring.
+            Your agent, on rails. Maps a codebase into architecture docs, stamped to commits<br>and refreshed only where the code moved, so your agent reads them instead of<br>re-exploring every session. For new projects, an interview pipeline designs<br>the whole thing before a line is built.
           </td>
         </tr>
         <tr>
           <td width="72" align="center"><a href="https://github.com/GentBajko/quarry"><img src="./logos/quarry-mark.svg" width="44" height="44" alt="Quarry" /></a></td>
           <td>
             <strong><a href="https://github.com/GentBajko/quarry">Quarry</a></strong><br>
-            One face for every repo. Indexes those docs across repos<br>and answers what a change could affect.
+            One face for every repo. Gathers every repo's Capstone docs into one index,<br>so questions that span repos are a one-line query: who consumes this,<br>what breaks if it changes, what a contract actually says.
           </td>
         </tr>
       </table>
