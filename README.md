@@ -36,14 +36,14 @@
           <td width="72" align="center"><a href="https://github.com/GentBajko/capstone"><img src="./logos/capstone-mark.svg" width="44" height="44" alt="Capstone" /></a></td>
           <td>
             <strong><a href="https://github.com/GentBajko/capstone">Capstone</a></strong><br>
-            Your agent, on rails. Writes commit-stamped architecture docs inside a repo, so agents read decisions instead of re-exploring.
+            Your agent, on rails. Commit-stamped architecture docs inside a repo,<br>so agents read decisions instead of re-exploring.
           </td>
         </tr>
         <tr>
           <td width="72" align="center"><a href="https://github.com/GentBajko/quarry"><img src="./logos/quarry-mark.svg" width="44" height="44" alt="Quarry" /></a></td>
           <td>
             <strong><a href="https://github.com/GentBajko/quarry">Quarry</a></strong><br>
-            One face for every repo. Indexes those docs across repos and answers what a change could affect.
+            One face for every repo. Indexes those docs across repos<br>and answers what a change could affect.
           </td>
         </tr>
       </table>
